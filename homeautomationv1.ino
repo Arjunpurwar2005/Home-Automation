@@ -4,7 +4,7 @@
 #include <PubSubClient.h>
 #include <IRremote.h>
 
-/* MQTT */
+/* MQTT *//
 #define MQTT_SERVER "broker.hivemq.com"
 #define MQTT_PORT 1883
 
